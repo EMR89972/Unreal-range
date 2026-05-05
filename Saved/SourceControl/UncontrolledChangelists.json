@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Blueprints/Target.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CB/IS76W9VXVFPEJYSNXMB1T1.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Z6/R1TQPKNFM2F3Y0WI9MV714.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AX/UAWF5GILX6IU2MDGP9HD1I.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/J1/H450SPZYPAKTYOSE7Q2JIC.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1Q/4RWRWSKOXT7S2EW13ODHUR.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5C/M3C8W4XI43EUQDDOJD493A.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NA/LZ0XXMB8QBYO3OND55BNMI.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/QE/1AR01DT8SZPO8GYZV5KCYZ.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5P/Z81H15WDH9JGZQHAHE3XJC.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/E2/I8QEVMW8Z6M1RB4UGPKIVW.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/WY/7BESCJDIYYI6SYIGPOEUPC.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XC/OYINXYMKN5JQHB67AN81QO.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/EI/8QLJGR3MI102FC4HUELFTB.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/FD/3JFUZR64JJTZLYOMUR508E.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/3Q/ZUXE5771AZSKKA9B9II44E.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/08/YDS7X6QMYFHOQOZ8HPW247.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X8/8IFLMLXMHY38EESOGP0KCE.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UI/5UA5FFG7E14HDJG79K8L50.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Maps/_GENERATED/ericm/Box_B61F76AE.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Blueprints/BP_Weapon.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/FirstPerson/Input/Actions/IA_ToggleShoot.uasset",
+				"C:/Users/ericm/Downloads/AA1_BaseProject (1)/AA1_BaseProject 5.7/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset"
+			]
+		}
+	]
+}
