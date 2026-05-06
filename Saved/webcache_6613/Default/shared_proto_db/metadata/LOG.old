@@ -1,2 +1,3 @@
-2026/05/02-21:53:19.400 4fec Creating DB C:\Users\ericm\Downloads\AA1_BaseProject (1)\AA1_BaseProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/05/02-21:53:19.405 4fec Reusing MANIFEST C:\Users\ericm\Downloads\AA1_BaseProject (1)\AA1_BaseProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/06-18:25:29.652 6d0 Reusing MANIFEST C:\Users\ericm\Downloads\AA1_BaseProject (1)\AA1_BaseProject 5.7\Unreal-range\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/06-18:25:29.652 6d0 Recovering log #3
+2026/05/06-18:25:29.653 6d0 Reusing old log C:\Users\ericm\Downloads\AA1_BaseProject (1)\AA1_BaseProject 5.7\Unreal-range\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
