@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Input/Actions/IA_ToggleShot.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Input/Actions/UpFireRate.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Input/Actions/DownFireRate.uasset",
+				"C:/Users/EricMarchanteRios/Downloads/AA1_BaseProject/AA1_BaseProject/Content/FirstPerson/Blueprints/Target.uasset"
+			]
+		}
+	]
+}
